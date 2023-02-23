@@ -34,15 +34,15 @@ Create a code quiz that contains the following requirements:
 
 The following animation demonstrates the application functionality:
 
-![Main Page](../assets/printscreen%20main%20page%20-%202023-02-23.jpg)
+![Main Page](./assets/readme/printscreen%20main%20page%20-%202023-02-23.jpg)
 
-![Q&A](../assets/printscreen%20question%20answers%20page%20-%202023-02-23.jpg)
+![Q&A](./assets/readme/printscreen%20question%20answers%20page%20-%202023-02-23.jpg)
 
-![End Questions](../assets/printscreen%20end%20question%20-%202023-02-23.jpg)
+![End Questions](./assets/readme/printscreen%20end%20question%20-%202023-02-23.jpg)
 
-![HighScore](../assets/printscreen%20highscores%20page%20-%202023-02-23.jpg)
+![HighScore](./assets/readme/printscreen%20highscores%20page%20-%202023-02-23.jpg)
 
-![Clear Questions](../assets/printscreen%20clear%20question%20-%202023-02-23.jpg)
+![Clear Questions](./assets/readme/printscreen%20clear%20question%20-%202023-02-23.jpg)
 
 ## Grading Requirements
 
